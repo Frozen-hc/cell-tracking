@@ -1,3 +1,3 @@
 # cell-tracking
-![T98G microscopy](https://github.com/oist/Usiigaci/blob/master/Demo/T98Gelectrotaxis-1.gif)
+![cell tracking](https://github.com/Frozen-hc/cell-tracking/blob/main/cell.gif)
 图片来自：https://github.com/oist/Usiigaci
